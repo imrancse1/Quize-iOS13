@@ -9,7 +9,7 @@
 import Foundation
 
 class Question {
-    
+    //MARK- :Variable
     let questionText : String
     let answer1 : String
     let answer2 : String
